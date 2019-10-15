@@ -89,8 +89,37 @@ h2 {
     padding: 0 20px 10px 0;
 }
 
-.portfolio-links {
+#portfolio-1 {
     float: left;
     height: 200px;
-    width: 400px:
+    width: 200px
+    padding: 20px;
+}
+
+#portfolio-2 {
+    float: left;
+    height: 200px;
+    width: 200px
+    padding: 20px;
+}
+
+#portfolio-3 {
+    float: left;
+    height: 200px;
+    width: 200px
+    padding: 20px;
+}
+
+#portfolio-4 {
+    float: left;
+    height: 200px;
+    width: 200px
+    padding: 20px;
+}
+
+#portfolio-5 {
+    float: left;
+    height: 200px;
+    width: 200px
+    padding: 20px;
 }
