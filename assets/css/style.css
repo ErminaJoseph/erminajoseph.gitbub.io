@@ -21,6 +21,7 @@ header {
     border-style: solid;
     background-color: whitesmoke;
 }
+
 #my-logo {
     background: darkred;
     width: 20%;
@@ -82,44 +83,91 @@ h2 {
     border-style: solid;
 }
 
-#bio-pic{
+#bio-pic {
     width: 200px;
     height: 200px;
     float: left;
     padding: 0 20px 10px 0;
+    margin: 5px;
+}
+
+.portfolio-links {
+    width: 700px;
+    margin: 0 auto;
+    background-color: whitesmoke;
+    height: 750px;
+}
+
+#pic1, #pic2, #pic3, #pic4, #pic5 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 20px;
+    position: relative;
 }
 
 #portfolio-1 {
-    float: left;
-    height: 200px;
-    width: 200px
-    padding: 20px;
+    background: darkred;
+    color: white;
+    text-align: center;
+    padding: 10px 54px 10px 57px;
+    position: absolute;
+    top: 434px;
+    left: 345px;
 }
 
 #portfolio-2 {
-    float: left;
-    height: 200px;
-    width: 200px
-    padding: 20px;
+    background: darkred;
+    color: white;
+    text-align: center;
+    padding: 10px 53px 10px 48px;
+    position: absolute;
+    top: 434px;
+    left: 585px;
 }
 
 #portfolio-3 {
-    float: left;
-    height: 200px;
-    width: 200px
-    padding: 20px;
+    background: darkred;
+    color: white;
+    text-align: center;
+    padding: 10px 59px 10px 54px;
+    position: absolute;
+    top: 674px;
+    left: 345px;
 }
 
 #portfolio-4 {
-    float: left;
-    height: 200px;
-    width: 200px
-    padding: 20px;
+    background: darkred;
+    color: white;
+    text-align: center;
+    padding: 10px 65px 10px 54px;
+    position: absolute;
+    top: 674px;
+    left: 585px;
 }
 
 #portfolio-5 {
-    float: left;
-    height: 200px;
-    width: 200px
-    padding: 20px;
+    background: darkred;
+    color: white;
+    text-align: center;
+    padding: 10px 25.5px 10px 25.5px;
+    position: absolute;
+    top: 914px;
+    left: 345px;
+}
+
+#contact-table {
+    width: 960px;
+    height: 700px;
+    margin: 0 auto;
+    background: whitesmoke;
+    padding: 10px;
+}
+#name, #email {
+    width: 850px;
+}
+
+#message {
+    width: 850px;
+    height: 350px;
 }
