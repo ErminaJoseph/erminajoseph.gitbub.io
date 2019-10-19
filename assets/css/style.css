@@ -171,3 +171,12 @@ h2 {
     width: 850px;
     height: 350px;
 }
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #8b0000;
+    color: #ffffff;
+    text-align: center;
+}
