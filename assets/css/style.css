@@ -276,11 +276,12 @@ footer {
     .container {
         width: 400px;
         padding: 10px;    
-        margin: 20px 20px 0 30px;
+        margin: 20px 0 0 110px;
     }
 
     #contact-table {
         width: 400px;
+        margin: 0px 0px 0px 110px;
     }
 
     #name, #email, #message {
@@ -313,18 +314,18 @@ footer {
 
     #about {
         border-width: 0;
-        left: 100px;
+        left: 170px;
         top: 60px;
     }
     
     #portfolio {
         border-width: 0;
-        left: 180px;
+        left: 240px;
         top: 60px;
     }
 
     #contact {
-        left: 280px;
+        left: 340px;
         top: 60px;
     }
 }
