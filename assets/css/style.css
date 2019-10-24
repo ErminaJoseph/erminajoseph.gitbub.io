@@ -215,12 +215,12 @@ footer {
     .container {
         width: 575px;
         padding: 10px;
-        margin: 20px 20px 0 30px;
+        margin: 20px 20px 0 60px;
     }
 
     #contact-table {
         width: 575px;
-        margin: 0 20px 0 30px;
+        margin: 0 20px 0 60px;
     }
 
     #name, #email, #message {
@@ -239,12 +239,12 @@ footer {
     #my-logo {
         width: 40%;;
         padding: 1px;
+        left: 1px;
     }
 
     #links {
         width: 60%;
         padding: 0;
-        float: left;
     }
 
     #about {
