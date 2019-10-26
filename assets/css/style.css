@@ -172,6 +172,37 @@ footer {
     #portfolio-links {
         width: 550px;
     }
+
+    #my-logo {
+        width: 40%;
+        margin: 0 0 0 10px;
+        padding: 1px;
+    }
+
+    #portfolio-1 {
+        top: 410px;
+        left: 50px;
+    }
+    
+    #portfolio-2 {
+        top: 410px;
+        left: 290px;
+    }
+    
+    #portfolio-3 {
+        top: 652px;
+        left: 50px;
+    }
+    
+    #portfolio-4 {
+        top: 652px;
+        left: 290px;
+    }
+    
+    #portfolio-5 {
+        top: 890px;
+        left: 50px;
+    }
   }
   
 @media screen and (max-width: 768px) {
@@ -204,40 +235,54 @@ footer {
     }
     
     #my-logo {
-        width: 40%;;
+        width: 40%;
         padding: 1px;
-        left: 1px;
-    }
-
-    #links {
-        width: 60%;
-        padding: 0;
+        margin: 0 0 0 60px;
     }
 
     #about {
         border-width: 0;
-        left: 100px;
+        left: 405px;
     }
     
     #portfolio {
         border-width: 0;
-        left: 180px;
+        left: 460px;
     }
 
     #contact {
-        left: 280px;
+        left: 550px;
     }
 
+    #portfolio-1 {
+        top: 410px;
+        left: 90px;
+    }
+    
+    #portfolio-2 {
+        top: 410px;
+        left: 330px;
+    }
+    
+    #portfolio-3 {
+        top: 652px;
+        left: 90px;
+    }
+    
+    #portfolio-4 {
+        top: 652px;
+        left: 330px;
+    }
+    
+    #portfolio-5 {
+        top: 890px;
+        left: 90px;
+    }
 }
 
 @media screen and (max-width: 640px) {
     body {
       background-color: url(../images/hotel-wallpaper-black.png);
-    }
-
-    #links {
-        width: 100%;
-        margin-bottom: 0%;
     }
 
     .container {
@@ -294,6 +339,31 @@ footer {
     #contact {
         left: 340px;
         top: 60px;
+    }
+
+    #portfolio-1 {
+        top: 450px;
+        left: 140px;
+    }
+    
+    #portfolio-2 {
+        top: 689px;
+        left: 140px;
+    }
+    
+    #portfolio-3 {
+        top: 931px;
+        left: 140px;
+    }
+    
+    #portfolio-4 {
+        top: 1170px;
+        left: 140px;
+    }
+    
+    #portfolio-5 {
+        top: 1410px;
+        left: 140px;
     }
 }
   
